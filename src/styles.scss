@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar-default {
+    background-color: purple;
+    color: #fff !important;
+    height: 75px;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav li a {
+    color: #fff;
+}
